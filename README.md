@@ -1,6 +1,4 @@
-👋 Hey there, I’m Arslan - Front End Developer
-
-🌱 I’m currently learning MERN stack
+👋 Hey there, I’m Arslan - Associate Software Engineer
 
 💞️ I’m looking to collaborate on front end projects
 
